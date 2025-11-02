@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaitreyBuddha
 - 👀 I’m interested in Artificial Intelligence and Big data.
-- 🌱 I’m currently learning about Big data tools and Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I love exploring about new technologies suce as Generative AI, MCP, etc.
+- 💞️ I would love to collaborate on data science open source projects
 - 📫 Reach me at maitreyb.mishra@gmail.com 
 
 <!---
