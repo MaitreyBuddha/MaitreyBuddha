@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Maitrey Mishra
+# Hi there I'm Maitrey Buddha Mishra
 
-## 🚀 Senior Data Scientist | Generative AI Engineer | ML Architect
+##  Senior Data Scientist | Generative AI Engineer | ML Architect
 
-I’m a Senior Data Scientist with 8 year8 of experience building scalable AI/ML systems across:
+I am a Senior Data Scientist with 8 year8 of experience building scalable AI/ML systems across:
 
 * Generative AI & LLM Applications
 * Machine Learning & Deep Learning
